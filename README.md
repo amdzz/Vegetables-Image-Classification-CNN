@@ -4,12 +4,9 @@ Proyek ini merupakan implementasi sistem klasifikasi citra menggunakan arsitektu
 Dataset diperoleh dari https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset. 
 
 ## Struktur Direktori
-├── tflite
-├── saved_model
-├── tfjs_model
 ├── notebook.ipynb
-├── requirements.txt 
-├── README.md
+/n├── requirements.txt 
+/n├── README.md
 
 ## Instalasi Dependensi
 
