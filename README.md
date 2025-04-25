@@ -3,11 +3,6 @@
 Proyek ini merupakan implementasi sistem klasifikasi citra menggunakan arsitektur Convolutional Neural Network (CNN) yang dibangun dengan TensorFlow dan Keras.
 Dataset diperoleh dari https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset. 
 
-## Struktur Direktori
-├── notebook.ipynb
-/n├── requirements.txt 
-/n├── README.md
-
 ## Instalasi Dependensi
 
 Pastikan Python 3.10 atau lebih baru telah terinstal. Untuk menginstal semua dependensi yang dibutuhkan, jalankan perintah berikut:
